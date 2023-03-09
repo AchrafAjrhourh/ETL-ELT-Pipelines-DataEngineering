@@ -10,7 +10,7 @@ DB_USER = 'postgres'
 DB_PASS = 'Afoaieafoaie1'
 
 # Directory containing the CSV files
-directory = 'D:/Yadine/Studs/MSBDA/4th Semester/Data Engineering/Projects/1/sales_csv'
+directory = 'D:/Yadine/Studs/MSBDA/4th Semester/Data Engineering/Projects/1/sales_csv/CSVs'
 
 # Connect to the database
 conn = psycopg2.connect(host=DB_HOST, dbname=DB_NAME, user=DB_USER, password=DB_PASS)
