@@ -8,7 +8,7 @@ import logging
 DB_HOST = 'KaTuripu'
 DB_NAME = 'achraf'
 DB_USER = 'Ajrhourh'
-DB_PASS = 'Afoaieafoaie1'
+DB_PASS = 'Put your password'
 
 # Directory containing the CSV files
 directory = 'D:/Yadine/Studs/MSBDA/4th Semester/Data Engineering/Projects/1/sales_csv/CSVs'
