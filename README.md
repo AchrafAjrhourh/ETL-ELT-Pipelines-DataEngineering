@@ -1,4 +1,4 @@
-# Sales Data Processing: ETL & ELT Approaches with MySQL and Hadoop
+# Data Processing: ETL & ELT Approaches with MySQL and Hadoop
 
 # Description:
 Python scripts for updating ID values for data consistency, processing data from CSV files using ETL and ELT methodologies, robust data handling and storage in a MySQL database and leveraging Hadoop Streaming for advanced data processing.
